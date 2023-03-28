@@ -32,7 +32,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖Awesome Books <a name="about-project"></a>
-
+This is a JavaScript project that allows you to create a list of books and view them on a web page. The project uses modern ES6 syntax and features, as well as the Luxon library for handling dates and times.
 
 ## 🛠 Built With <a name="built-with"></a>
 <ul>
@@ -46,16 +46,10 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Server</summary>
+  <summary>client </summary>
   <ul>
-    <li><a href="#">n/a</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="#">n/a</a></li>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS</a></li>
   </ul>
 </details>
 
@@ -69,28 +63,35 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+To get a local copy of the project up and running, follow these steps.
 
 ### Prerequisites
-
-In order to run this project you need:
-- vs code 
-- github
-- laptop
+In order to run this project, you need to have a web browser installed on your computer.
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder by running the following command:
 
-  - cd my-folder
-  - git clone https://github.com/massazoum/Awesome-Books.git
-  
-  - git clone
-  - npm install or npm init -y
+  - git clone  https://github.com/massazoum/Awesome-Books.git
+ ### Install
+
+You can install this repositiory using:
+
+  npm install
+
+### Usage
+
+To run the project, open the index.html file in your web browser.
 
 ### Run tests
 
-This website has been completed and deployed
+To run tests, run the following command:
+
+ npx hint .
+ npx stylelint "**/*.{css,scss}"
+ npx eslint .
+
+
 
 ### Deployment
 
@@ -142,7 +143,5 @@ This work was not supported by any funding or grants.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
