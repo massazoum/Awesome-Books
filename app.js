@@ -17,7 +17,7 @@ function displayBooks() {
 	bookList.innerHTML = '';
 	// iterate through the books and create a list item for each book
 	books.forEach(function(book, index) {
-		const div = document.createElement('div');
+		const div =('div');
 		// div.innerHTML = `${book.title} by ${book.author} <button data-index="${index}" class="remove-button">Remove</button>`;
 		// bookList.appendChild(div);
 
