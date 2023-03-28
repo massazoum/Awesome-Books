@@ -83,7 +83,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
   - cd my-folder
-  - git clone https://github.com/massazoum/Portfolio-setup-and-mobile-first.git
+  - git clone https://github.com/massazoum/Awesome-Books.git
   
   - git clone
   - npm install or npm init -y
@@ -95,7 +95,7 @@ This website has been completed and deployed
 ### Deployment
 
   The changes will be deployed to the website through our standard deployment process.
-- [PortFolio](https://massazoum.github.io/Portfolio-setup-and-mobile-first/)
+- [Awesome Books](https://massazoum.github.io/Portfolio-setup-and-mobile-first/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
