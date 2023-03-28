@@ -3,11 +3,7 @@ const bookList = document.getElementById('book-list');
 
 // load books from local storage or use default books
 
-let books = JSON.parse(localStorage.getItem('books')) || [
-	{title: 'Book 1', author: 'Author 1'},
-	{title: 'Book 2', author: 'Author 2'},
-	{title: 'Book 3', author: 'Author 3'}
-];
+let books = JSON.parse(localStorage.getItem('books')) || [];
 
 // display the books in the book list element
 function displayBooks() {
@@ -18,9 +14,6 @@ function displayBooks() {
 	// iterate through the books and create a list item for each book
 	books.forEach(function(book, index) {
 		const div = document.createElement('div');
-		// div.innerHTML = `${book.title} by ${book.author} <button data-index="${index}" class="remove-button">Remove</button>`;
-		// bookList.appendChild(div);
-
 		div.innerHTML = `<div>${book.title}</div> <div> ${book.author}</div><div> <button data-index="${index}" class="remove-button">Remove</button></div><div><hr></div>`;
 		bookList.appendChild(div);
 	});
