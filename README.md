@@ -135,7 +135,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-This work was not supported by any funding or grants.
+If If you like this project, please give it a star on GitHub.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
