@@ -119,7 +119,8 @@ This website has been completed and deployed
 - [ ] **Responsive**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-## 🙏 Acknowledgements <a name="acknowledgements"></a>  
+
+## 🙏  Acknowledgements <a name="acknowledgements"></a>  
 
 Thanks to team , I have followed these requirements 
 
