@@ -95,7 +95,7 @@ This website has been completed and deployed
 ### Deployment
 
   The changes will be deployed to the website through our standard deployment process.
-- [Awesome Books](https://massazoum.github.io/Portfolio-setup-and-mobile-first/)
+- [Awesome Books]( https://massazoum.github.io/Awesome-Books/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
