@@ -61,38 +61,42 @@ This is a JavaScript project that allows you to create a list of books and view 
 - I Used JavaScript events.
  -I used objects to store and access data.
 
-## 💻 Getting Started <a name="getting-started"></a>
+# 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy of the project up and running, follow these steps.
 
 ### Prerequisites
-In order to run this project, you need to have a web browser installed on your computer.
 
+```Prerequisites
+In order to run this project, you need to have a web browser installed on your computer.
+```
 ### Setup
 
 Clone this repository to your desired folder by running the following command:
 
+```Setup
   - git clone  https://github.com/massazoum/Awesome-Books.git
+  ```
  ### Install
 
 You can install this repositiory using:
-
+```install
   npm install
-
+```
 ### Usage
 
+```Usage
 To run the project, open the index.html file in your web browser.
-
+```
 ### Run tests
 
 To run tests, run the following command:
 
+```tests
  npx hint .
  npx stylelint "**/*.{css,scss}"
  npx eslint .
-
-
-
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
